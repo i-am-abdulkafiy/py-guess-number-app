@@ -1,4 +1,4 @@
-# Text Input AI Project
+# Number Guess App
 
 ## Introduction
 
